@@ -193,6 +193,12 @@ main {
       border-color: #ee281a93;
       transition: all 0.5s ease-out; }
 
+.contact-pic .bio-image {
+  grid-area: bioimage;
+  margin: auto;
+  border-radius: 50%;
+  border: #ee281a93 3px solid; }
+
 .boxes {
   display: flex;
   flex-wrap: wrap;
